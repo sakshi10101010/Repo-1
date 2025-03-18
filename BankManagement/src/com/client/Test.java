@@ -51,8 +51,7 @@ public class Test {
 				default:
 					System.out.println("You have Entered Wrong Choice..");
 					System.out.println("just making changes..");
-					
-
+					System.out.println("just making another changes..");
 	          }
 		}
 	}
